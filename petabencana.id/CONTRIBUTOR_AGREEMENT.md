@@ -10,7 +10,7 @@ This document pertains to Flood Reports made via a PetaBencana.id Flood Report C
 
 1.2 PetaBencana.id is a project of the Urban Risk Lab at the Massachusetts Institute of Technology operated in collaboration with the Pacific Disaster Centre and Badan Nasional Penanggulangan Bencana. PetaBencana.id is supported by USAID.
 
-1.3 PetaBencana.id is Open Source Software and is provided without warranty. For more details see the [project license documentation](https://github.com/urbanriskmap/urbanriskmap-meta/).
+1.3 PetaBencana.id is Open Source Software and is provided without warranty. For more details see the [project license documentation](https://github.com/urbanriskmap/urbanriskmap-meta/petabencana.id/LICENSING.md).
 
 ## 2. Opt-In
 Submission of Flood Reports to PetaBencana.id is provided as an opt-in service. PetaBencana.id does not collect any data from You unless you request a one-time-link from the PetaBencana.id Bot using a social messaging platform.
