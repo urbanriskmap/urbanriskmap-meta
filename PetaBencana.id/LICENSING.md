@@ -9,6 +9,6 @@ PetaBencana.id is powered by the open source CogniCity software. Both PetaBencan
 ## Data
 Data collected by PetaBencana.id is released under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-On submission of flood reports users agree to the [Contribution Agreement]()
+On submission of flood reports users agree to the [Contribution Agreement](https://github.com/urbanriskmap/urbanriskmap-meta/blob/master/PetaBencana.id/CONTRIBUTOR_AGREEMENT.md).
 
 Access to the data is provided via our API, see [API Documentation](https://docs.petabencana.id/).
